@@ -11,3 +11,6 @@ Script comes with industry locator. Type <i>help</i) in Lua Tab to see available
 
 <hr>
 The script is made so it should be fairly easy to shuffle contents between screens or add more screens to it (up to 9) if you wish so. If you need any help with customising it reach me in game (Bartas) or on Discord (BartasRS#2742).
+<hr>
+<br>
+BIG thanks to Credence#1983 for help with testing and code improvements!
