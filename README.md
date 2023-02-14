@@ -1,7 +1,7 @@
 # Factory-Monitoring-Expanded
 ![expanded](https://user-images.githubusercontent.com/61538051/218508893-b6412c34-e172-4fd8-90a4-00b6801f20c7.png)
 <br>
-An expanded version of my Factory Monitoring Screen for people with crazy big factories. Basic version resulted in text overlaps and eventually script crash due to 50k characters limit per screen.
+An expanded version of my [Factory Monitoring Screen](https://github.com/BartasRS/Factory_monitoring_screen) for people with crazy big factories. Basic version resulted in text overlaps and eventually script crash due to 50k characters limit per screen.
 <br>
 This version displays Metalworks, Electronics and Glass industry on screen 1, 3D Printers, Chemical Industry, Refiners, Honeycombs and Smelters on screen 2 and, finally Assemblers on screen 3. I figured out it should be a proper setup for most big factories tho I know some of you are crazy :P<br>
 There is also a version for 9 screens which displays each type of industry on a separate screen.
