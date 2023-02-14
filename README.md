@@ -7,6 +7,7 @@ This version displays Metalworks, Electronics and Glass industry on screen 1, 3D
 There is also a version for 9 screens which displays each type of industry on a separate screen.
 <br><br>
 ## Installation
+Copy [3 screen version](https://github.com/BartasRS/Factory-Monitoring-Expanded/blob/main/PB.json) or [9 screen version]() into PB <br><br>
 Simply connect core and 3( or 9) screens (in any order) to Programing Board and run the script. I humbly suggest setting refresh rate (In Lua settings) to 3 or above to avoid possible laggy situations with a lot of industry running.<br><br>
 <b>Lua Parameters</b><br><br>
 Refresh rate - value in seconds, set above 3 for really big factories<br>
