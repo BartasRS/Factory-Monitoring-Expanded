@@ -6,7 +6,7 @@ An expanded version of my [Factory Monitoring Screen](https://github.com/BartasR
 This version displays Metalworks, Electronics and Glass industry on screen 1, 3D Printers, Chemical Industry, Refiners, Honeycombs and Smelters on screen 2 and, finally Assemblers on screen 3. I figured out it should be a proper setup for most big factories tho I know some of you are crazy :P<br>
 There is also a version for 9 screens which displays each type of industry on a separate screen.
 <br><br>
-<h2>Installation</h2>
+## Installation
 Simply connect core and 3( or 9) screens (in any order) to Programing Board and run the script. I humbly suggest setting refresh rate (In Lua settings) to 3 or above to avoid possible laggy situations with a lot of industry running.<br><br>
 <b>Lua Parameters</b><br><br>
 Refresh rate - value in seconds, set above 3 for really big factories<br>
